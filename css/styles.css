@@ -158,6 +158,12 @@ footer{
 }
 .contact-footer:hover {
     color: var(--accent-color);}
+    
+.title-footer {
+    color: var(--accent-text-color);
+    text-decoration: none;
+    
+}
 
 
 
