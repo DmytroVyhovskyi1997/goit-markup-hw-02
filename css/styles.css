@@ -87,10 +87,12 @@ header{
 .button{
     color: var(--accent-text-color);
     background-color: var(--accent-color);
+    cursor: pointer;
 }
 .button-type{
     background-color: #F5F4FA;
     color:var(--title-text-color);
+    cursor: pointer;
 }
 .button-type:hover,
 .button-type:focus{
