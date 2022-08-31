@@ -50,7 +50,8 @@ header{
         letter-spacing: 0.02em;
         text-decoration: none;
 }
-.contact-link:hover{
+.contact-link:hover
+{
     color: var(--accent-color);
 }
 .title-link {
