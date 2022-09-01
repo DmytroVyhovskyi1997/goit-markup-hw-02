@@ -50,7 +50,8 @@ header{
         letter-spacing: 0.02em;
         text-decoration: none;
 }
-.contact-link:hover
+.contact-link:hover,
+.contact-link:focus
 {
     color: var(--accent-color);
 }
@@ -175,7 +176,8 @@ footer{
 .contact-footer{
     color: #FFFFFF;
 }
-.contact-footer:hover {
+.contact-footer:hover,
+.contact-footer:focus {
     color: var(--accent-color);}
     
 .title-footer {
