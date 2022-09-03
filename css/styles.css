@@ -1,3 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
 :root{
     --primery-text-color: #F5F5F5;
     --title-text-color:#000000;
@@ -94,6 +103,7 @@ header{
 .button-type{
     background-color: #F5F4FA;
     color:var(--title-text-color);
+            font-family: 'Roboto';
             font-weight: 500;
             font-size: 16px;
             line-height: 1.6;
